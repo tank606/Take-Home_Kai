@@ -1,0 +1,44 @@
+[
+    {
+      "timestamp": 1616533456618,
+      "priority": 1,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "6da9d3e3ec6c0236dcc3b1aa08bdaabb"
+    },
+    {
+      "timestamp": 1616533456618,
+      "priority": 2,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "30e5394d028435f812e03f221658f62f"
+    },
+    {
+      "timestamp": 1616533456618,
+      "priority": 0,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "a0449009acb3b8b0ff6a15e327b3c3f1"
+    },
+    {
+      "timestamp": 1616533456620,
+      "priority": 1,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "2341e53c1259165dcf23020b831ce550"
+    },
+    {
+      "timestamp": 1616533456620,
+      "priority": 0,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "e69449251695391b6bd20155682d10e0"
+    },
+    {
+      "timestamp": 1616533456620,
+      "priority": 2,
+      "body": "Lorem ipsum",
+      "title": "Title",
+      "deduplication_id": "30e5394d028435f812e03f221658f62f"
+    }
+  ]
